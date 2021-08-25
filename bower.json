@@ -5,10 +5,10 @@
   "authors": [
     "Firebase (https://firebase.google.com/)"
   ],
-  "homepage": "https://github.com/firebase/angularfire",
+  "homepage": "https://github.com/Entour-Digital/angular-fire",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Entour-Digital/angularfire.git"
+    "url": "https://github.com/Entour-Digital/angular-fire.git"
   },
   "license": "MIT",
   "keywords": [
