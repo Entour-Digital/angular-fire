@@ -3,10 +3,10 @@
   "description": "The officially supported AngularJS binding for Firebase",
   "version": "2.3.0",
   "author": "Firebase (https://firebase.google.com/)",
-  "homepage": "https://github.com/firebase/angularfire",
+  "homepage": "https://github.com/Entour-Digital/angular-fire",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Entour-Digital/angularfire.git"
+    "url": "https://github.com/Entour-Digital/angular-fire.git"
   },
   "bugs": {
     "url": "https://github.com/firebase/angularfire/issues"
